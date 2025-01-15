@@ -1,4 +1,3 @@
-# House_Price_Prediction-ML-Project
 # House Price Prediction
 
 This repository contains a machine learning project aimed at predicting house prices based on various features. The project includes data preprocessing, feature encoding, scaling, model training, and evaluation using a Linear Regression model.
@@ -75,3 +74,10 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - The dataset was sourced from `House_Price.csv`.
 - Libraries: [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), and [Scikit-learn](https://scikit-learn.org/).
 
+# Team Members:
+1. Anakn Bera
+2. Subham Das
+3. Abhishek Kumar
+4. Aditya Kumar
+5. Subhadeep Kar
+6. Srinjoy Chakraborti
