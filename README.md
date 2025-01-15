@@ -60,6 +60,8 @@ pip install numpy pandas matplotlib scikit-learn
 
 - **Mean Squared Error**: The MSE of the model is computed and displayed in the notebook.
 - **Visualization**: A plot showing the relationship between predicted and actual values is generated.
+- **-----------------------------Predicting Result-----------------------------------**
+- ![download](https://github.com/user-attachments/assets/b759b7b7-c5c7-40ae-bcc0-f6a3fd2f49d0)
 
 ## Contributing
 
